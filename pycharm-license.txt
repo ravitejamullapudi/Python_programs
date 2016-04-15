@@ -1,0 +1,10 @@
+Run PyCharm and follow the Installation Wizard's instructions. To register for use of the software or change your existing registration details, go to Help/Register menu of the software and enter the included below the User Name and License Key(s) into the registration dialog:
+ 
+User Name: Mission R and D
+ 
+===== LICENSE BEGIN =====
+499235-12122012
+0000211dCZxrZact9FHGQBGa"nI1It
+0XLVBi1RhUsKAxHcM2wrUmoojYPJI4
+!93HVVRN89yi4qAge6Phv9fW5FCJqa
+===== LICENSE END =====
